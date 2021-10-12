@@ -5,7 +5,7 @@ The program needs to be compiled with c++11. There are "-bubble", "-altbubble", 
 
 P.S.
 
--By trying to find that the time required to output the program to the file is much longer than the time required for sorting, so if you need to compare the running time of each algorithm, please comment out the output part (cout) in the main function.
+-By experiments, I find that the time required to output the program to the file is much longer than the time required for sorting, so if you need to compare the running time of each algorithm, please comment out the output part (cout) in the main function.
 
 -The first three algorithms are not recommended to run when n>50000.
 
