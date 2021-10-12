@@ -1,4 +1,5 @@
-# eight-sorting-algorithms
+# Eight-sorting-algorithms
+I write 8 common sorting algorithm from the begining.
 The program needs to be compiled with c++11. There are "-bubble", "-altbubble", "-insertion", "-heap", "-merge", "-quick", "-bucket", "-radix" in total. Each input mode corresponds to the corresponding sorting algorithm.
 
 ---The first number entered is the total number of numbers to be sorted.
